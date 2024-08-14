@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "cucumber-js --require features/step_definitions/*.js --format progress"
-  },
+  "test": "cucumber-js"
+},
+
   "keywords": [],
   "author": "",
   "license": "ISC",
